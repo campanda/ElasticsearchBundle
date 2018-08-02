@@ -39,7 +39,7 @@
         "symfony/options-resolver": "^3.0|^4.0"
     },
     "autoload": {
-        "psr-4": { "Campanda\\ElasticsearchBundle\\": "" },
+        "psr-4": { "ONGR\\ElasticsearchBundle\\": "" },
         "exclude-from-classmap": ["/Tests/", "/Test/"]
     },
     "minimum-stability": "dev",
